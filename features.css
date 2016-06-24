@@ -1,0 +1,20 @@
+.feature-div{
+	padding: 25px;
+	margin-left: 35px;
+	margin-right: 35px;
+	/*background: yellow;*/
+	/*border: 1px solid black;*/
+}
+
+.feature-div h2 {
+	margin-bottom: 5px;
+}
+
+.features-section {
+	/*border: 1px solid black;*/
+}
+
+.features-section .canvas {
+	padding-top: 85px;
+	padding-bottom: 85px;
+}

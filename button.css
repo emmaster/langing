@@ -1,0 +1,15 @@
+.button {
+	display: block;
+	padding: 10px;
+	border: 1px solid black;
+	text-align: center;
+	width:100px;
+	background: #ddd;
+	text-decoration: none;
+	color:black;
+}
+
+.center-button{
+	margin: auto;
+	margin-top:20px;
+}
