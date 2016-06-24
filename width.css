@@ -25,3 +25,17 @@
 .w-33{
 	width:33.3%;
 }
+
+
+@media (max-width: 640px) {
+  .w-33 {
+    float: none;
+    width: auto;
+  }
+
+  .w-40 {
+    float: none;
+    width: auto;
+  }
+
+}
