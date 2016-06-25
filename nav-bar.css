@@ -38,3 +38,7 @@
 	/*background: yellow;*/
 	height:95px;
 }
+
+.nav-bar-section .canvas {
+	background: none;
+}

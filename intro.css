@@ -9,8 +9,9 @@
 }
 
 .intro-section .canvas  {
-	background-image: url("hookah.png");
-	background-size: cover;
+	/*background-image: url("hookah.png");*/
+	/*background-size: cover;*/
+	background: none;
 	max-height: 630px;
 }
 
